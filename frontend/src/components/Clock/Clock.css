@@ -1,0 +1,9 @@
+.time {
+  font-weight: bold;
+  display: block;
+}
+
+.day {
+  font-weight: bold;
+  text-align: center;
+}

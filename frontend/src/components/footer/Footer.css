@@ -1,0 +1,20 @@
+/* .footer-container {
+  background-color: #b1bdcd;
+  margin-top: auto;
+  color: #fff;
+} */
+.footer-container{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: auto;
+  padding: 60px 10px;
+  background-color: #b1bdcd;
+  list-style: none;
+  justify-content: space-between;
+  
+}
+
+.social-media{
+  width: 20px;
+}
+
